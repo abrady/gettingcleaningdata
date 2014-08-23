@@ -38,16 +38,16 @@ Variables
 | 30 | MeanBodyGyroscopeJerkStandardDeviationX | Mean Body GyroscopeJerkStandardDeviation in the X axis | -1 to 1 | numeric |
 | 31 | MeanBodyGyroscopeJerkStandardDeviationY | Mean Body GyroscopeJerkStandardDeviation in the Y axis | -1 to 1 | numeric |
 | 32 | MeanBodyGyroscopeJerkStandardDeviationZ | Mean Body GyroscopeJerkStandardDeviation in the Z axis | -1 to 1 | numeric |
-| 33 | MeanBodyAccelerationMagnitudeMean"                    
-| 34 | MeanBodyAccelerationMagnitudeStandardDeviation"       
-| 35 | MeanGravityAccelerationMagnitudeMean"                 
-| 36 | MeanGravityAccelerationMagnitudeStandardDeviation"    
-| 37 | MeanBodyAccelerationJerkMagnitudeMean"                
-| 38 | MeanBodyAccelerationJerkMagnitudeStandardDeviation"   
-| 39 | MeanBodyGyroscopeMagnitudeMean"                       
-| 40 | MeanBodyGyroscopeMagnitudeStandardDeviation"          
-| 41 | MeanBodyGyroscopeJerkMagnitudeMean"                   
-| 42 | MeanBodyGyroscopeJerkMagnitudeStandardDeviation"      
+| 33 | MeanBodyAccelerationMagnitudeMean | Mean Body GyroscopeJerkStandardDeviation in the Z axis | -1 to 1 | numeric |                    
+| 34 | MeanBodyAccelerationMagnitudeStandardDeviation | Mean Body GyroscopeJerkStandardDeviation in the Z axis | -1 to 1 | numeric |       
+| 35 | MeanGravityAccelerationMagnitudeMean | Mean Body GyroscopeJerkStandardDeviation in the Z axis | -1 to 1 | numeric |                 
+| 36 | MeanGravityAccelerationMagnitudeStandardDeviation | Mean GravityAccelerationMagnitudeStandardDeviation | -1 to 1 | numeric |    
+| 37 | MeanBodyAccelerationJerkMagnitudeMean | Mean BodyAccelerationJerkMagnitudeMean | -1 to 1 | numeric |                
+| 38 | MeanBodyAccelerationJerkMagnitudeStandardDeviation | Mean BodyAccelerationJerkMagnitudeStandardDeviation | -1 to 1 | numeric |   
+| 39 | MeanBodyGyroscopeMagnitudeMean | Mean BodyGyroscopeMagnitudeMean | -1 to 1 | numeric |                       
+| 40 | MeanBodyGyroscopeMagnitudeStandardDeviation | Mean BodyGyroscopeMagnitudeStandardDeviation | -1 to 1 | numeric |          
+| 41 | MeanBodyGyroscopeJerkMagnitudeMean | Mean BodyGyroscopeJerkMagnitudeMean | -1 to 1 | numeric |                   
+| 42 | MeanBodyGyroscopeJerkMagnitudeStandardDeviation | Mean BodyGyroscopeJerkMagnitudeStandardDeviation | -1 to 1 | numeric |      
 | 43 | MeanFFTBodyAccelerationMeanX | Mean FFTBodyAccelerationMean in the X axis | -1 to 1 | numeric |
 | 44 | MeanFFTBodyAccelerationMeanY | Mean FFTBodyAccelerationMean in the Y axis | -1 to 1 | numeric |
 | 45 | MeanFFTBodyAccelerationMeanZ | Mean FFTBodyAccelerationMean in the Z axis | -1 to 1 | numeric |
